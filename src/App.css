@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+  cursor: pointer;
+}

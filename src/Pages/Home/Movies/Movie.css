@@ -1,0 +1,15 @@
+.movies-card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.movie-card{
+    width: 150px;
+    height: 270px;
+}
+.movie-img img{
+    width: 100%;
+}
+.single-movie-card{
+    width: 500px;
+}
